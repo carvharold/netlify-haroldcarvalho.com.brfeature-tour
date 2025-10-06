@@ -36,7 +36,7 @@ git clone git@github.com:netlify/feature-tour.git
 cd feature-tour
 
 # 3. Install code dependencies
-npm install
+npm installharoldcarvalho.com.brHACCA45
 
 # 4. Install the Netlify CLI to let you locally serve your site using Netlify's features
 npm install -g netlify-cli
