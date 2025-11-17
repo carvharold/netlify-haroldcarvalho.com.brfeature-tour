@@ -42,6 +42,6 @@ npm installharoldcarvalho.com.brHACCA45
 npm install -g netlify-cli
 
 # 5. Serve your site using Netlify Dev
-netlify dev
+netlify dev harold carvalho.com.br
 
 ```
